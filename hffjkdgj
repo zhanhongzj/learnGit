@@ -1,0 +1,29 @@
+[33mcommit 789576eb014780ddffacc0b9f548451f7e3e9175[m
+Author: zhanhong <zhanhong@antiy.cn>
+Date:   Wed Apr 11 10:22:40 2018 +0800
+
+    test git跟踪的是修改而非文件
+
+[33mcommit ad3961a11854bbf3c50896cfcba899ac43adf770[m
+Author: zhanhong <zhanhong@antiy.cn>
+Date:   Wed Apr 11 10:11:56 2018 +0800
+
+    test4
+
+[33mcommit 416f2510236fc6c23c2505f3a7ed0af8d10f5347[m
+Author: zhanhong <zhanhong@antiy.cn>
+Date:   Tue Apr 10 18:05:47 2018 +0800
+
+    test3
+
+[33mcommit 014403c8e9b368308bd7bc1b3bc0cac1c7268b2e[m
+Author: zhanhong <zhanhong@antiy.cn>
+Date:   Tue Apr 10 18:01:44 2018 +0800
+
+    test2
+
+[33mcommit d9820b55b0316789b9d2df283d332f22ee80d7ec[m
+Author: zhanhong <zhanhong@antiy.cn>
+Date:   Tue Apr 10 17:54:04 2018 +0800
+
+    test1
